@@ -38,3 +38,13 @@ pip install -r requirements.txt
 4. Open and run Jupyter notebooks: Navigate to the notebooks/ folder and start exploring the code and results.
 5. Explore the analysis results: Review the visualizations and actionable insights generated from the analysis.
 # Visualizations
+### Correlation Matrix
+![Correlation_Matrix](data_assets/hr_corrmatrix.png)
+### Employee Demographics by Gender and Marital status
+![Correlation_Matrix](data_assets/hr_employersbyGender.png)
+### Attrition by Job Role
+![Correlation_Matrix](data_assets/hr_attritionjobrole.png)
+### Job Role
+![Correlation_Matrix](data_assets/hr_jobrole.png)
+### Attrition
+![Correlation_Matrix](data_assets/hr_attrition.png)
